@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{15F823E0-0C05-444E-98D3-F1BFFB485284}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OrderService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrderService/Middleware/ExceptionHandlingMiddleware.cs">
+    <Files>
+      <File FileName="Domain/Models/Order.cs" />
+      <File FileName="Domain/Models/OrderItem.cs" />
+      <File FileName="Domain/Models/OrderStatus.cs" />
+      <File FileName="Infrastructure/Data/ApplicationDbContext.cs" Line="55" Column="1" />
+      <File FileName="Application/DTOs/OrderDto.cs" />
+      <File FileName="Application/DTOs/OrderItemDto.cs" />
+      <File FileName="Application/DTOs/OrderStatusDto.cs" />
+      <File FileName="Application/Mappings/MappingProfile.cs" Line="13" Column="34" />
+      <File FileName="Domain/RepositoriyInterfaces/IOrderRepository.cs" Line="17" Column="65" />
+      <File FileName="Infrastructure/Repositories/OrderRepository.cs" Line="54" Column="1" />
+      <File FileName="Application/Services/Interfaces/IOrderService.cs" Line="5" Column="2" />
+      <File FileName="Application/Services/OrderService.cs" Line="56" Column="1" />
+      <File FileName="Presentation/Controllers/OrdersController.cs" Line="20" Column="10" />
+      <File FileName="OrderService/Program.cs" Line="53" Column="22" />
+      <File FileName="OrderService/appsettings.json" Line="9" Column="18" />
+      <File FileName="OrderService/Middleware/ExceptionHandlingMiddleware.cs" Line="61" Column="10" />
+      <File FileName="Application/Validation/IValidator.cs" />
+      <File FileName="Application/Validation/OrderValidator.cs" />
+      <File FileName="Application/Validation/OrderItemValidator.cs" />
+      <File FileName="Application/Validation/OrderStatusValidator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrderService" expanded="True">
+            <Node name="Application">
+              <Node name="Mappings" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Domain">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="RepositoriyInterfaces" expanded="True" />
+            </Node>
+            <Node name="Infrastructure">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="OrderService">
+              <Node name="Middleware" expanded="True">
+                <Node name="ExceptionHandlingMiddleware.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

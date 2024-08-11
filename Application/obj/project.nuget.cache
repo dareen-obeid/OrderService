@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "StglPyWDPQJK0w4el9N27PhHu+95FAHZc5PmGDA4B126haf9m8HUCDs4Wy+h1DY8N33RaEtAMEy20Gq1hrLKIA==",
+  "success": true,
+  "projectFilePath": "/Users/dareenobeid/Projects/OrderService/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/dareenobeid/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/dareenobeid/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
